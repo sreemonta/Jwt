@@ -9,6 +9,7 @@ from servers to clients, independent of technology and server stacks.REST APIs s
 and provide applications the ability to communicate using lightweight JSON format. They run on web servers.
 
 REST consists of the following entities:
+
 Resource: Resources are uniquely identifiable entities (for example: data from a database, images, or any data).
 Endpoint: A resource can be accessed through a URL identifier.
 HTTP method: HTTP method is the type of request a client sends to a server.Operations we perform on the resource should follow this.
