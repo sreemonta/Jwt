@@ -3,6 +3,7 @@
 
 # Jwt
 What is a REST API?
+
 Due to the increasing number of different varieties of clients (mobile apps, browser-based SPAs, desktop apps, IOT apps, etc.), we need better ways fortransferring data 
 from servers to clients, independent of technology and server stacks.REST APIs solve this problem. REST stands for representational state transfer.REST APIs are HTTP-based 
 and provide applications the ability to communicate using lightweight JSON format. They run on web servers.
