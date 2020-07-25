@@ -11,8 +11,11 @@ and provide applications the ability to communicate using lightweight JSON forma
 REST consists of the following entities:
 
 Resource: Resources are uniquely identifiable entities (for example: data from a database, images, or any data).
+
 Endpoint: A resource can be accessed through a URL identifier.
+
 HTTP method: HTTP method is the type of request a client sends to a server.Operations we perform on the resource should follow this.
+
 HTTP header: An HTTP header is a key-value pair used to share additional information between a client and server, such as:
 
 Type of data being sent to server (JSON, XML).
